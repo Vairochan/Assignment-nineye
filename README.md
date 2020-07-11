@@ -1,6 +1,20 @@
 # nineye
 
-A new Flutter project.
+#### API
+
+API is generated from`https://www.json-generator.com/#`
+
+API used to fetch the details and presented in a ListView using future builder is `http://www.json-generator.com/api/json/get/cgsMDTVpWq?indent=2`
+
+#### Screenshots
+
+<img src="screenshot/1.jpg" width="250">|<img src="screenshot/2.jpg" width="250">| 
+<img src="screenshot/3.jpg" width="250">
+
+
+
+
+
 
 ## Getting Started
 
