@@ -8,8 +8,8 @@ API used to fetch the details and presented in a ListView using future builder i
 
 #### Screenshots
 
-<img src="screenshot/1.jpg" width="250">|<img src="screenshot/2.jpg" width="250">| 
-<img src="screenshot/3.jpg" width="250">
+<img src="screenshots/1.jpg" width="250">|<img src="screenshots/2.jpg" width="250">| 
+<img src="screenshots/3.jpg" width="250">
 
 
 
